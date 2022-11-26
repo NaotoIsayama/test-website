@@ -1,0 +1,36 @@
+
+body {
+    background-color: ivory;
+    font-family: "Raleway", sans-serif;
+    color:darkslategray;
+    line-height: 1.5;
+
+}
+
+.meme-headers {
+    width: 50%;
+    margin: auto;
+    letter-spacing: 5px;
+    text-align: center;
+    background-color: darkslategray;
+    color:azure;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.meme-headers #subhead{
+    font-weight: lighter;
+}
+.meme-headers #profile-picture {
+    width: 50%;
+    border-radius: 100%;
+    opacity: .75;
+    filter: grayscale(75%);
+}
+
+.introduction {
+    text-align: left;
+    padding-left: 5%;
+    font-weight:700;
+}
+
